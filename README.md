@@ -12,7 +12,7 @@ Setar as Permissoes do Gitpod ao Repositorio no Github X
 
 Subir o Airbyte via docker x 
 
-Subir o Airflow via docker 
+Subir o Airflow via docker x
 
 Subir o Metabase via docker 
 
