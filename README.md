@@ -22,8 +22,8 @@ Testar a Execução ?
 
 Snowflake Data Warehouse:
 
-Criar a Conta no SnowFlake 
-Verificar a existência das tabelas 
+Criar a Conta no SnowFlake x
+Verificar a existência das tabelas x 
 Obter os links de conexão e nome da conta 
 Extração:
 
