@@ -42,7 +42,7 @@ config() {
   echo "Enter your Airbyte Index connection ID: "
   read index_connection_id
 
-  # Set connection IDs for DAG.
+  # Set connection IDs for DAG
   cd airflow
   docker-compose run airflow-webserver airflow variables set 'AIRBYTE_EPIDEMIOLOGY_CONNECTION_ID' "$epidemiology_connection_id"
   docker-compose run airflow-webserver airflow variables set 'AIRBYTE_ECONOMY_CONNECTION_ID' "$economy_connection_id"
